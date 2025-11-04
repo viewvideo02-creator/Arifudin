@@ -81,10 +81,3 @@ while True:
         i = 0  # balik lagi ke awal
 
     time.sleep(waktu2)
-
-
-while true; do
-    python main.py
-    echo "[!] Bot disconnect, mencoba restart dalam 1 detik..."
-    sleep 1
-done
