@@ -3,7 +3,7 @@
 pkg install git
 ```
 ```
-git clone https://github.com/viewvideo02-creator/arif
+git clone https://github.com/viewvideo02-creator/Arifudin
 ```
 ```
 pkg install python
