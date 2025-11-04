@@ -29,4 +29,10 @@ ls
 ```
 nano token.txt
 ```
- sudah terimakasih 
+```
+{bagian penting,install kiwi browser,atau browser yang support dev tools,setelah itu login discordnya,
+ setelah login,buka dev tools,akan muncul di tab baru ketika sudah dibuka,jangan lupa jadikan desktop,
+ selanjutnya,kirim pesan bebas diserver manapun,setelah terkirim,cek dev tools dibagian network,dan cari massages,
+ setelah itu cari (authorization) salin kode tersebut dan tempelkan pada nano pesan.txt}
+```
+TERIMAKASIH
