@@ -4,7 +4,7 @@
 pkg install git -y
 
 # Clone the repository
-git clone https://github.com/viewvideo02-creator/arif/tree/main
+git clone https://github.com/viewvideo02-creator/Arifudin
 
 # Install Python
 pkg install python -y
